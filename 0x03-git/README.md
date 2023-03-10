@@ -13,3 +13,6 @@
 - updated the scripts within the main branch
 4. collaboration: be up to date
 - new non-empty file created
+5. HAAA what did you do???
+- merged the two barnches
+- fixed the conlicts
