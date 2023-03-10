@@ -16,3 +16,5 @@
 5. HAAA what did you do???
 - merged the two barnches
 - fixed the conlicts
+6. never push too much
+- new .gitignore
